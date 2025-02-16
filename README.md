@@ -1,2 +1,2 @@
-# 0213_Post-class_JS-ExternalLibraries
-Post-class exercises from 0213 lecture notes.
+# 0217_Pre-class_JS-TestingAndTestingFrameworks
+Pre-class exercises from 02/10 reading materials.
